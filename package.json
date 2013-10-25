@@ -26,6 +26,9 @@
     }
   ],
   "license": "MIT",
+  "dependencies": {
+    "tedious": "~0.1.5"
+  },
   "devDependencies": {
     "tedious": "0.0.7",
     "mocha": "1.6.0",
